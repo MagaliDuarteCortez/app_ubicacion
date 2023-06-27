@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LLamada_Mensaje</string>
+    <string name="device_admin_description">Descripción del administrador del dispositivo</string>
+</resources>
